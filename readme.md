@@ -1,3 +1,6 @@
+![Bash](https://img.shields.io/badge/Language-Bash-4EAA25?logo=gnu-bash&logoColor=white)
+![MariaDB](https://img.shields.io/badge/Database-MariaDB-003545?logo=mariadb&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
 # Automated MariaDB Backup Pipeline
 
 A production-grade Bash script that automates MariaDB database backups with local and off-site redundancy, retention management, and cron-driven scheduling.
