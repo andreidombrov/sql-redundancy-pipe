@@ -1,0 +1,21 @@
+# Runtime files
+*.log
+
+# Backup archives (never commit real data)
+*.sql
+*.sql.gz
+
+# Credentials & secrets
+.env
+*.pem
+*.key
+id_rsa
+id_ed25519
+
+# OS noise
+.DS_Store
+Thumbs.db
+
+# Editor noise
+.vscode/
+*.swp
